@@ -1,0 +1,15 @@
+C:\Users\lifec\source\repos\TCPChatClient\TCPChatClient\bin\Debug\net6.0\TCPChatClient.exe
+C:\Users\lifec\source\repos\TCPChatClient\TCPChatClient\bin\Debug\net6.0\TCPChatClient.deps.json
+C:\Users\lifec\source\repos\TCPChatClient\TCPChatClient\bin\Debug\net6.0\TCPChatClient.runtimeconfig.json
+C:\Users\lifec\source\repos\TCPChatClient\TCPChatClient\bin\Debug\net6.0\TCPChatClient.dll
+C:\Users\lifec\source\repos\TCPChatClient\TCPChatClient\bin\Debug\net6.0\TCPChatClient.pdb
+C:\Users\lifec\source\repos\TCPChatClient\TCPChatClient\obj\Debug\net6.0\TCPChatClient.csproj.AssemblyReference.cache
+C:\Users\lifec\source\repos\TCPChatClient\TCPChatClient\obj\Debug\net6.0\TCPChatClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lifec\source\repos\TCPChatClient\TCPChatClient\obj\Debug\net6.0\TCPChatClient.AssemblyInfoInputs.cache
+C:\Users\lifec\source\repos\TCPChatClient\TCPChatClient\obj\Debug\net6.0\TCPChatClient.AssemblyInfo.cs
+C:\Users\lifec\source\repos\TCPChatClient\TCPChatClient\obj\Debug\net6.0\TCPChatClient.csproj.CoreCompileInputs.cache
+C:\Users\lifec\source\repos\TCPChatClient\TCPChatClient\obj\Debug\net6.0\TCPChatClient.dll
+C:\Users\lifec\source\repos\TCPChatClient\TCPChatClient\obj\Debug\net6.0\refint\TCPChatClient.dll
+C:\Users\lifec\source\repos\TCPChatClient\TCPChatClient\obj\Debug\net6.0\TCPChatClient.pdb
+C:\Users\lifec\source\repos\TCPChatClient\TCPChatClient\obj\Debug\net6.0\TCPChatClient.genruntimeconfig.cache
+C:\Users\lifec\source\repos\TCPChatClient\TCPChatClient\obj\Debug\net6.0\ref\TCPChatClient.dll
